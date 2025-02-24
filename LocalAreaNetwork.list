@@ -42,8 +42,3 @@ payload:
   - DOMAIN-SUFFIX,zte.home
   - DOMAIN-SUFFIX,tplogin.cn
   - DOMAIN-SUFFIX,wifi.cmcc
-  - DOMAIN-SUFFIX,sso.nhedu.net
-  - DOMAIN-SUFFIX,s-nhyx.lconrise.cn
-  - DOMAIN-KEYWORD,nhedu
-  - DOMAIN-KEYWORD,nhyx
-  - DOMAIN-KEYWORD,lconrise
