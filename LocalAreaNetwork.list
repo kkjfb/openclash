@@ -42,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,zte.home
   - DOMAIN-SUFFIX,tplogin.cn
   - DOMAIN-SUFFIX,wifi.cmcc
-  - DOMAIN-KEYWORD,nhedu,DIRECT #南海云课堂
-  - DOMAIN-KEYWORD,nhyx,DIRECT #南海云课堂
-  - DOMAIN-KEYWORD,lconrise,DIRECT #南海云课堂
+  - DOMAIN-SUFFIX,sso.nhedu.net
+  - DOMAIN-SUFFIX,s-nhyx.lconrise.cn
+  - DOMAIN-KEYWORD,nhedu
+  - DOMAIN-KEYWORD,nhyx
+  - DOMAIN-KEYWORD,lconrise
