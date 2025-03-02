@@ -8,10 +8,14 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,sso.nhedu.net
 DOMAIN-SUFFIX,s-nhyx.lconrise.cn
 DOMAIN-SUFFIX,wx.huison.com
+DOMAIN-SUFFIX,dogfight360.com
+DOMAIN-SUFFIX,gdtextbook.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,huison
+DOMAIN-KEYWORD,dogfight360
+DOMAIN-KEYWORD,gdtextbook
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
