@@ -10,12 +10,14 @@ DOMAIN-SUFFIX,s-nhyx.lconrise.cn
 DOMAIN-SUFFIX,wx.huison.com
 DOMAIN-SUFFIX,dogfight360.com
 DOMAIN-SUFFIX,gdtextbook.com
+DOMAIN-SUFFIX,wx.nhgcyy.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,huison
 DOMAIN-KEYWORD,dogfight360
 DOMAIN-KEYWORD,gdtextbook
+DOMAIN-KEYWORD,wx.
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
